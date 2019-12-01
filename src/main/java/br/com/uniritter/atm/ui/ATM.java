@@ -1,4 +1,4 @@
-package br.com.uniritter.atm;
+package br.com.uniritter.atm.ui;
 // ATM.java
 // Represents an automated teller machine
 

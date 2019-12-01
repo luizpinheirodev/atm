@@ -2,7 +2,7 @@ package br.com.uniritter.atm.main;
 // ATMCaseStudy.java
 // Driver program for the ATM case study
 
-import br.com.uniritter.atm.ATM;
+import br.com.uniritter.atm.ui.ATM;
 
 public class ATMCaseStudy
 {
